@@ -1,5 +1,5 @@
 # rial.js
-a tiny JavaScript library for money and currency formatting
+a JavaScript library for money and currency formatting
 <pre>
 <code>var rial = new Rial( {
 			decimal : ",",
