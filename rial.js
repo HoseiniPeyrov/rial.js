@@ -1,5 +1,5 @@
 /*!
- * Rial.js v0.0.2
+ * Rial.js v0.0.3
  * Copyright 2015 Saeid Habibpour
  * a tiny JavaScript library for money and currency formatting
  *
